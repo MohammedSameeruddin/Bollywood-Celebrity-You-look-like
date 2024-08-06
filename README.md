@@ -48,7 +48,7 @@ You can also use others images instead of bollywood actress
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like.git
+git clone https://github.com/MohammedSameeruddin/Bollywood-Celebrity-You-look-like.git
 ```
 
 ## STEP 02: 
